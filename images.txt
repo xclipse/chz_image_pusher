@@ -1,3 +1,4 @@
+mikenye/youtube-dl
 node:22
 nginx
 keycloak/keycloak:latest

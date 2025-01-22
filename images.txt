@@ -1,3 +1,4 @@
+homeassistant/home-assistant:latest
 mikenye/youtube-dl:latest
 node:22
 nginx

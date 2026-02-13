@@ -1,3 +1,4 @@
+linuxserver/qbittorrent:5.1.4-libtorrentv1
 metacubex/mihomo:latest
 homeassistant/home-assistant:latest
 mikenye/youtube-dl:latest
